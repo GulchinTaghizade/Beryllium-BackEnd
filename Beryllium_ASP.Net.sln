@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beryllium_ASP.Net", "Beryllium_ASP.Net\Beryllium_ASP.Net.csproj", "{63E5FA8D-3816-491C-88F3-17943EF302E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63E5FA8D-3816-491C-88F3-17943EF302E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E5FA8D-3816-491C-88F3-17943EF302E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E5FA8D-3816-491C-88F3-17943EF302E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E5FA8D-3816-491C-88F3-17943EF302E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99230711-8D26-49D1-9B64-15A6F5A06613}
+	EndGlobalSection
+EndGlobal
