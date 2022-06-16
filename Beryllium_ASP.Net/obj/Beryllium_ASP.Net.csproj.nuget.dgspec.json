@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\Beryllium_ASP.Net\\Beryllium_ASP.Net\\Beryllium_ASP.Net.csproj": {}
+    "C:\\Users\\Gulchin\\Desktop\\Beryllium-BackEnd\\Beryllium_ASP.Net\\Beryllium_ASP.Net.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\Beryllium_ASP.Net\\Beryllium_ASP.Net\\Beryllium_ASP.Net.csproj": {
+    "C:\\Users\\Gulchin\\Desktop\\Beryllium-BackEnd\\Beryllium_ASP.Net\\Beryllium_ASP.Net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Beryllium_ASP.Net\\Beryllium_ASP.Net\\Beryllium_ASP.Net.csproj",
+        "projectUniqueName": "C:\\Users\\Gulchin\\Desktop\\Beryllium-BackEnd\\Beryllium_ASP.Net\\Beryllium_ASP.Net.csproj",
         "projectName": "Beryllium_ASP.Net",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\Beryllium_ASP.Net\\Beryllium_ASP.Net\\Beryllium_ASP.Net.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\Beryllium_ASP.Net\\Beryllium_ASP.Net\\obj\\",
+        "projectPath": "C:\\Users\\Gulchin\\Desktop\\Beryllium-BackEnd\\Beryllium_ASP.Net\\Beryllium_ASP.Net.csproj",
+        "packagesPath": "C:\\Users\\Gulchin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gulchin\\Desktop\\Beryllium-BackEnd\\Beryllium_ASP.Net\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gulchin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,6 +44,20 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.26, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.26, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.26, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.5, )"
@@ -67,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }
