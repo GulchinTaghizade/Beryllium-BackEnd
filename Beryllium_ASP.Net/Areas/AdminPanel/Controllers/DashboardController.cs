@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Beryllium_ASP.Net.Areas.AdminPanel.Controllers
 {
     [Area("AdminPanel")]
-    public class Dashboard : Controller
+    public class DashboardController : Controller
     {
         public IActionResult Index()
         {
