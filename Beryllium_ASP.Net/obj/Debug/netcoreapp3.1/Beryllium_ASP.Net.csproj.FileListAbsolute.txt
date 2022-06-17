@@ -296,6 +296,7 @@ C:\Users\Asus\Desktop\Beryllium_ASP.Net\Beryllium_ASP.Net\bin\Debug\netcoreapp3.
 C:\Users\Asus\Desktop\Beryllium_ASP.Net\Beryllium_ASP.Net\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\_ViewImports.cshtml.g.cs
 C:\Users\Asus\Desktop\Beryllium_ASP.Net\Beryllium_ASP.Net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\Asus\Desktop\Beryllium_ASP.Net\Beryllium_ASP.Net\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\Asus\Desktop\Beryllium_ASP.Net\Beryllium_ASP.Net\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Dashboard\Index.cshtml.g.cs
 C:\Users\Asus\Desktop\Beryllium_ASP.Net\Beryllium_ASP.Net\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\_ViewStart.cshtml.g.cs
 C:\Users\Asus\Desktop\Beryllium_ASP.Net\Beryllium_ASP.Net\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Asus\Desktop\Beryllium_ASP.Net\Beryllium_ASP.Net\obj\Debug\netcoreapp3.1\Beryllium_ASP.Net.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Beryllium_ASP.Net\Beryllium_ASP.Net\obj\Debug\netcoreapp3.1\Razor\Areas\AdminPanel\Views\Dashboard\Index.cshtml.g.cs
